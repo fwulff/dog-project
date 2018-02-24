@@ -6,19 +6,19 @@
 ## Project: Write an Algorithm for a Dog Identification App 
 
 ```python
-img_path = './test_images/8.jpg'
+img_path = './test_images/4.jpg'
 classify_image(img_path)
 ```
 
-    Using image path ./test_images/8.jpg
-    Human detected
-    131
-    ./test_images/8.jpg
-    Dear human, your dog breed is Xoloitzcuintli for image None
+    Using image path ./test_images/4.jpg
+    Dog detected
+    64
+    ./test_images/4.jpg
+    Dear dog, predicted your breed as Entlebucher_mountain_dog for image None
     
 
 
-![png](./images/output_122_1.png)
+![png](./images/output_118_1.png)
 
 ---
 
